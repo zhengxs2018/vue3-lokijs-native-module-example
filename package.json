@@ -1,0 +1,16 @@
+{
+  "name": "vue3-lokijs-native-module-example",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "browser-sync start --server --files \"src/**/*\""
+  },
+  "dependencies": {
+    "lokijs": "^1.5.11"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.14"
+  },
+  "author": "zhengxs <zhengxs2018@foxmail.com>",
+  "license": "MIT"
+}
